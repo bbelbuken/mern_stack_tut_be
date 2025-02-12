@@ -1,0 +1,28 @@
+{
+  "typeAcquisition": {
+    "include": [
+      "jest",
+      "redux",
+      "react-redux",
+      "@reduxjs/toolkit",
+      "@reduxjs/toolkit/query",
+      "express",
+      "date-fns",
+      "uuid",
+      "dotenv",
+      "mongoose",
+      "mongoose-sequence",
+      "chalk",
+    ]
+  },
+  "compilerOptions": {
+    "baseUrl": "./",  
+    "module": "commonjs",
+    "target": "es6",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
