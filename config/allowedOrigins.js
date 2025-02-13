@@ -1,3 +1,3 @@
-const allowedOrigins = ['https://technotes-5jt0.onrender.com'];
+const allowedOrigins = ['https://mern-stack-tut-fe.onrender.com'];
 
 module.exports = allowedOrigins;
